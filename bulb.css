@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+
+}
+
+.bulb {
+    position: absolute;
+    width: 200px;
+    height: 500px;
+    margin-left: 150px;
+    margin-top: 50px;
+ 
+}
+
+.switch {
+    float: right;
+   
+}
+
+button{
+     border-radius: 50%;
+     padding: 30px;
+     margin-right: 200px;
+     margin-top: 300px;
+}
